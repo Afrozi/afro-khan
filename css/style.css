@@ -115,7 +115,7 @@ li a{
     display: flex;
   justify-content: start;
   align-items: start;
-  margin-left: 15%;
+  margin-left: 20%;
 }
 .box{
    border: 7px solid;
@@ -125,7 +125,7 @@ li a{
 
 }
 .boxing{
-  padding-left:185px !important;
+  padding-left:105px !important;
  margin-top: 1rem;
 }
 .bolds{
